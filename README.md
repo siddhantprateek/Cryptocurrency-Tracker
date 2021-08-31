@@ -2,7 +2,13 @@
 
 ![](https://i.imgur.com/pnT1atj.png)
 
-### Installation
+## About
+
+This web application helps in tracking the trends of cryptocurrency and keeps the track of the each hour and updates hourly. This app is made using React a Frontend Framework.
+## Inspiration
+
+The main motivation for this project to learn api management and since there many fake coins these coins are very much volatile to trade as the price fluctuate randomly. At any moment you can loose your investments. This app keep the track of crpytocurrency.
+## Installation
 Make sure you follow the bellow steps:
 
 * fork the project first and then clone it. make sure you edit `<user-name>`.
