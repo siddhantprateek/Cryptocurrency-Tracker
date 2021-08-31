@@ -35,7 +35,7 @@ function CryptoApp() {
           <h1 className="coin-text">Search Currency</h1>
           <form>
             <input type='text'
-            placeholder='search crypto'
+            placeholder='search here'
             onChange={handleChange}
             className='coin-input'/>
           </form>
