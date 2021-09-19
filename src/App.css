@@ -4,13 +4,11 @@
   background: linear-gradient(248.78deg, rgba(178, 117, 255, 0.73) 13.85%, rgba(112, 0, 255, 0) 99.48%), linear-gradient(111.58deg, rgba(255, 0, 0, 0.45) 18.8%, rgba(231, 22, 22, 0) 100%), #8F00FF;  flex-direction: column;
   display: flex;
   align-items: center;
-  margin: 0;
   box-sizing: border-box;
   margin: 0;
   padding: 0;
   font-family: 'Poppins', sans-serif;
   color: #ffff;
-  /* color: #ffff; */
 }
 
 .coin-search{
@@ -30,12 +28,14 @@
 
 .coin-input{
   padding-left:  16px;
-  width: 300px;
+  width: 900px;
   height: 50px;
-  border-radius: 4px;
   border: none;
-  mix-blend-mode: multiply;
-  color: rgb(255, 255, 255);
+  outline: none;
+  border-radius: 5px;
+  background: rgba(240, 240, 240, 0.29);
+  backdrop-filter: blur(22px);
+  color:black;
 }
 
 .coin-input::placeholder{
