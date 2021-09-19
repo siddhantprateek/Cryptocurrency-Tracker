@@ -1,10 +1,15 @@
-<h1 align="center">Cryptocurrency Tracker</h1>
+s<h1 align="center">💰 Cryptocurrency Tracker</h1>
 
 ![](https://i.imgur.com/pnT1atj.png)
 
 ## About
 
 This web application helps in tracking the trends of cryptocurrency and keeps tracking every hour and updates hourly. This app is made using React a Frontend Framework.
+
+## Built using:
+- React JS
+- CoinGecko API
+
 ## Inspiration
 
 The main motivation for this project to learn api management and since there many fake coins these coins are very much volatile to trade as the price fluctuate randomly. At any moment you can loose your investments. This app keep the track of crpytocurrency.
@@ -18,7 +23,7 @@ git@github.com:<user-name>/Cryptocurrency-Tracker.git
 
 * After cloning into your local machine, navigate to root 📁 directory. 
 ```shell
-cd crypto-tracker
+cd Cryptocurrency-Tracker
 ```
 
 * Inside the root 📂 directory, run the below command, make sure that you have node installed in your local machine. This will install all the dependencies required to run the project.
