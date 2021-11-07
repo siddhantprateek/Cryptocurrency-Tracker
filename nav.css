@@ -1,0 +1,30 @@
+.nav{
+    background-color: #9A32CD;
+}
+.nav-content{
+    margin: 0% 3% 0% 3%;
+}
+.brand{
+    font-size: 25px;
+    font-weight: 600;
+    color: #FFB90F !important;
+}
+
+.nav-list{
+    font-size: 18px;
+    font-weight: 600;
+    margin-left: 31.5%;
+}
+.nav-item{
+    color: whitesmoke !important;
+}
+
+.btn{
+    color: #FFB90F;
+    background-color: #9A32CD;
+    border-color: #FFB90F;
+}
+.btn:hover{
+    background-color: #FFB90F;
+    color: #9A32CD;
+}
