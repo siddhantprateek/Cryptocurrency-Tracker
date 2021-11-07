@@ -1,10 +1,4 @@
-import {Navbar} from 'react-bootstrap'
-import {Container} from 'react-bootstrap'
-import {Nav} from 'react-bootstrap'
-import {NavDropdown} from 'react-bootstrap'
-import {Form} from 'react-bootstrap'
-import {FormControl} from 'react-bootstrap'
-import {Button} from 'react-bootstrap'
+import { Navbar, Container, Nav, NavDropdowm, Form, FormControl, Button } from 'react-bootstrap';
 import './nav.css';
 
 // https://api.coingecko.com/api/v3/coins/markets?vs_currency=inr&order=market_cap_desc&per_page=100&page=1&sparkline=false
