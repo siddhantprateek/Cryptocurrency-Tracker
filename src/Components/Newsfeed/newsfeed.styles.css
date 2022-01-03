@@ -1,0 +1,19 @@
+.article-content {
+    padding: 0 1rem;
+    transition: all .4s;
+}
+.article-content:hover {
+    transform: scale(1.05);
+    background: rgba(255, 255, 255, 0.28);
+    backdrop-filter: blur(12px);
+    border-radius: 16px;
+}
+.article-content a {
+    text-decoration: none;
+    color: black;
+}
+
+.article-content a:hover {
+    color: rgb(80, 92, 255);
+}
+

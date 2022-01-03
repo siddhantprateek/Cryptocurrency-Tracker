@@ -1,6 +1,6 @@
-<h1 align="center">💰 Cryptocurrency Tracker</h1>
+<h1 align="center">💰CRYPTORA : Cryptocurrency Tracker</h1>
 
-![](https://i.imgur.com/pnT1atj.png)
+![](https://i.imgur.com/UxYWjiU.png)
 
 ## About
 
@@ -9,6 +9,7 @@ This web application helps in tracking the trends of cryptocurrency and keeps tr
 ## Built using:
 - React JS
 - CoinGecko API
+- Crypto News Live API
 
 ## Inspiration
 
