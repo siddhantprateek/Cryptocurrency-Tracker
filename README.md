@@ -1,4 +1,4 @@
-s<h1 align="center">💰 Cryptocurrency Tracker</h1>
+<h1 align="center">💰 Cryptocurrency Tracker</h1>
 
 ![](https://i.imgur.com/pnT1atj.png)
 
@@ -30,8 +30,8 @@ cd Cryptocurrency-Tracker
 ```shell
 npm install
 ```
-
 * After installing all the dependencies, run
+
 ```shell
 npm run start
 ```

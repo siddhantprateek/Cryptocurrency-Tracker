@@ -42,6 +42,7 @@ function CryptoApp() {
         </div>
         {filteredCoins.map(coin => {
           return(
+            
             <Coin
               key={coin.id}
               name={coin.name}
