@@ -22,12 +22,12 @@ export const Newsfeed = () => {
         console.error(error);
       });
   }, []);
-  
+
   return (
     <div className="articles">
         {articles?.map((article, _index) => (
             <div className="article-content" key={_index}>
-                <a href={article.url}>
+                <a target='__blank' href={article.url}>
                     <p>{article.title}</p>
                 </a>
             </div>
