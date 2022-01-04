@@ -1,8 +1,4 @@
 import './App.css';
-// import axios from 'axios';
-// import React, { useState, useEffect } from 'react';
-import './App.css';
-// import Coin from './Components/coin-list/coin-list.components';
 import { Header } from './Components/header/header.component';
 import { Route, Routes } from 'react-router-dom';
 import Dashboard from './routes/dashboard/dashboard.routes';

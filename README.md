@@ -1,3 +1,5 @@
+![badge](https://img.shields.io/badge/Project_Status-DONE-blueviolet?style=for-the-badge&logo=appveyor)
+
 <h1 align="center">💰CRYPTORA : Cryptocurrency Tracker</h1>
 
 ![](https://i.imgur.com/UxYWjiU.png)
