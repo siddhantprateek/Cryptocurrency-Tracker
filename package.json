@@ -23,7 +23,7 @@
     "yarn": "^1.22.11"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "concurrently \"react-scripts start\" \"nodemon server.js\"",
     "start:backend": "nodemon server.js",
     "dev": "concurrently \"react-scripts start\" \"nodemon server.js\"",
     "build": "react-scripts build",
