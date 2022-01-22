@@ -15,7 +15,7 @@ app.get('/', (req, res) => {
 });
 
 
-app.get('/news', (req, res) => {
+app.get('/api/news', (req, res) => {
     var options = {
         method: 'GET',
         url: 'https://crypto-news-live3.p.rapidapi.com/news',
