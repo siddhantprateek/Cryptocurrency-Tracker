@@ -1,4 +1,4 @@
-const PORT = 8000
+const PORT = process.env.PORT || 3000;
 require('dotenv').config()
 const axios = require('axios');
 const cors = require('cors');
