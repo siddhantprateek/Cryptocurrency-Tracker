@@ -10,6 +10,7 @@ This web application helps in tracking the trends of cryptocurrency and keeps tr
 
 ## Built using:
 - React JS
+- Node.Js and Express.Js
 - CoinGecko API
 - Crypto News Live API
 
