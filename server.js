@@ -1,13 +1,20 @@
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 8000;
 require('dotenv').config()
 const axios = require('axios');
 const cors = require('cors');
 const express = require('express');
 const app = express();
+const path = require("path");
 
 app.use(cors());
 
-// app.use('/news')
+app.use(express.static(path.join(__dirname, "build")));
+
+app.get('/', (req, res) => {
+  res.sendFile(path.join(__dirname, 'build', 'index.html'));
+});
+
+
 app.get('/news', (req, res) => {
     var options = {
         method: 'GET',
