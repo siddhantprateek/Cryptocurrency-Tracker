@@ -9,7 +9,7 @@ const CryptoApp = () => {
         <Header/>
         <Routes>
           <Route exact path='/' element={<Dashboard/>}/>
-          <Route exact path='/articles' element={<News/>}/>
+          <Route exact path='/news' element={<News/>}/>
         </Routes>
       </div>
     );

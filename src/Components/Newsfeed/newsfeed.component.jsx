@@ -6,7 +6,7 @@ export const Newsfeed = () => {
   useEffect(() => {
     var options = {
       method: 'GET',
-      url: `https://cryptora.herokuapp.com/news`,
+      url: `https://cryptora.herokuapp.com/api/news`,
     };
 
     axios
