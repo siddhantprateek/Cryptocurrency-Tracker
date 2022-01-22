@@ -34,8 +34,8 @@ cd Cryptocurrency-Tracker
 npm install
 ```
 * After installing all the dependencies, run
-
+To run both frontend and backend simultaneously
 ```shell
-npm run start
+npm run dev
 ```
 It will run the project locally at [localhost:3000](http://localhost:3000) or on your network at [10.5.0.2:3000](http://10.5.0.2:3000)
